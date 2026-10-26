@@ -5,7 +5,7 @@ A Flutter demo app showing how `ReorderableListView` lets users drag and drop li
 ## How to Run
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Kiguru-Alu/FlutterWidgetDemo
 cd reorderable_list_demo
 flutter pub get
 flutter run
