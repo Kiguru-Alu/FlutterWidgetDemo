@@ -28,6 +28,11 @@ Press `r` in the terminal to hot reload after making code changes.
 
 
 **`Screenshot of App`**
-<img width="720" height="1600" alt="Reordablelistappscreenshot" src="https://github.com/user-attachments/assets/3b63da0e-d8b0-42d8-8f08-c8dcf5c32d03" />
+
+
+
+
+<img width="502" height="901" alt="ReordableListWidgetAppScreenshot" src="https://github.com/user-attachments/assets/6c743153-80c0-423d-80c7-248db8661a79" />
+
 
 
